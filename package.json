@@ -9,7 +9,7 @@
   "author": "Manny404",
   "license": "ISC",
   "dependencies": {
-    "forever": "^0.15.2",
+    "forever": "^2.0.0",
     "twitter": "^1.2.5"
   }
 }
